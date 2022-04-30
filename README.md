@@ -1,2 +1,2 @@
 # tong
-javaproject
+java ssm project
