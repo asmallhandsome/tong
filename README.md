@@ -1,2 +1,2 @@
 # tong
-java ssm project
+用SSM框架做的简易版用户信息管理系统
